@@ -1,0 +1,4 @@
+[submodule "ljsyscall"]
+	path = ljsyscall
+	url = https://github.com/justincormack/ljsyscall.git
+	branch = master
